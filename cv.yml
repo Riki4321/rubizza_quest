@@ -1,0 +1,30 @@
+name: "Nikita Chirkov"
+age: 33
+goal: Gain more RoR skills
+
+contacts:
+  email: "nikkita@tut.by"
+
+social:
+  github: "Riki4321"
+  linkedin: "https://www.linkedin.com/in/nikitachirkov"
+
+experience:
+  languages:
+    - name: PHP
+    - name: JavaScript
+    - name: HTML/CSS/HAML/less/sass/scss
+    - name: Ruby
+    - name: Ruby on Rails
+    - name: React Native
+    - name: etc.
+  other:
+    - name: Project Management
+    - name: Technical Leadership
+    - name: Client Communication
+    - name: etc.
+
+education:
+  - title: Computer Science
+    when: 2003-2008
+    institution: BSUIR
