@@ -1,10 +1,10 @@
 full_name: "Nikita Chirkov"
 age: 33
-have_a_job: yes. Technical Lead, Warecorp
-laptop: yes. MacOS
+hours_per_day: 4
+have_a_job: yes Technical Lead, Warecorp
+laptop: yes MacOS
 english: Upper Intermediate
 phone_number: +375297728094 (though email is preferable communication channel)
-hours_per_day: 4
 goal: Previously PHP developer and Technical project manager, I'd like to gain more RoR skills in order to understand RoR applications' specifics and easily communicate to Rails developers
 
 contacts:
