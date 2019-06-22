@@ -1,29 +1,27 @@
-name: "Nikita Chirkov"
+full_name: "Nikita Chirkov"
 age: 33
-goal: Gain more RoR skills
+have_a_job: Technical Lead, Warecorp
+laptop: MacOS
+english: Upper Intermediate
+phone_number: +375297728094 (though email is preferable communication channel)
+goal: Previously PHP developer and Technical project manager, I'd like to gain more RoR skills in order to understand RoR applications' specifics and easily communicate to Rails developers
 
 contacts:
   email: "nikkita@tut.by"
 
-social:
-  github: "Riki4321"
-  linkedin: "https://www.linkedin.com/in/nikitachirkov"
-
+programming_languages:
+  - name: PHP
+  - name: JavaScript
+  - name: HTML/CSS/HAML/less/sass/scss
+  - name: Ruby
+  - name: Ruby on Rails
+  - name: React Native
+  - name: etc.
 experience:
-  languages:
-    - name: PHP
-    - name: JavaScript
-    - name: HTML/CSS/HAML/less/sass/scss
-    - name: Ruby
-    - name: Ruby on Rails
-    - name: React Native
-    - name: etc.
-  other:
-    - name: Project Management
-    - name: Technical Leadership
-    - name: Client Communication
-    - name: etc.
-
+  - name: Project Management
+  - name: Technical Leadership
+  - name: Client Communication
+  - name: etc.
 education:
   - title: Computer Science
     when: 2003-2008
